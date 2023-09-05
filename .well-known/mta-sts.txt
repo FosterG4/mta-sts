@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: delivery.maaf.in
+mx: smtp.maaf.in
+max_age: 604800
