@@ -2,4 +2,5 @@ version: STSv1
 mode: testing
 mx: delivery.maaf.in
 mx: smtp.maaf.in
+mx: mail.three-ss.com
 max_age: 604800
